@@ -1,2 +1,3 @@
 # calculadora-reactjs
-Calculadora em ReactJS 
+Calculadora em ReactJS
+Utilizando o 'react-bootstrap'
