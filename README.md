@@ -1,5 +1,5 @@
 # Calculadora
-# Bibliotecas Utilizadas
+# Bibliotecas utilizadas
 - ReactJS
 - React Bootstrap
 
