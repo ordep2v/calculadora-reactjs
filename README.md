@@ -1,8 +1,6 @@
 # Calculadora
-# Ferramenta utilizada
+# Bibliotecas Utilizadas
 - ReactJS
-
-# Biblioteca utilizada
 - React Bootstrap
 
 ![Calculadora](https://i.ibb.co/h7g85Wv/calculadora.png)
